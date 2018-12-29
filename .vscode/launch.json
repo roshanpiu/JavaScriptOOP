@@ -1,0 +1,51 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "LaunchSolution1",
+            "program": "${workspaceFolder}/solution1.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "LaunchSolution2",
+            "program": "${workspaceFolder}/solution2.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "LaunchSolution3",
+            "program": "${workspaceFolder}/solution3.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "LaunchSolution4",
+            "program": "${workspaceFolder}/solution4.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "LaunchSolution5",
+            "program": "${workspaceFolder}/solution5.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "LaunchSolution6",
+            "program": "${workspaceFolder}/solution6.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "LaunchSolution7",
+            "program": "${workspaceFolder}/solution7.js"
+        }
+    ]
+}
